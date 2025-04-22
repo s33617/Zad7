@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        sdsdsdsds
+        Car c = new Car(5);
+        c.stop();
+        c.start();
+        c.getNumberOfSeats();
     }
 }
